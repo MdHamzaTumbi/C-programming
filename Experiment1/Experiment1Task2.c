@@ -1,6 +1,13 @@
-/*Aim: WAP to get students PCM marks from the user and find the average. Use conditional
+/*
+Aim: WAP to get students PCM marks from the user and find the average. Use conditional
 operator to print if the student is eligible for admission. Eligibility criteria is 50% in
-PCM.*/
+PCM.
+Name        : Tumbi Mohamed Hamza Sueb
+UIN         : 241015
+Roll No.    : 15
+Div         : A
+Department  : Artificial Intelligence & Data Science
+*/
 
 #include <stdio.h>
 
