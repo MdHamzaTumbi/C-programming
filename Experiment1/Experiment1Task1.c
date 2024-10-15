@@ -1,5 +1,14 @@
-/*WAP to print your name, age, class, division and UIN on the screen. Use
-escape sequences to properly format the output.*/
+/*
+Aim: WAP to print your name, age, class, division and UIN on the screen. Use
+escape sequences to properly format the output.
+/*
+WAP to find the sum of all the odd numbers between numbers entered by the user.
+Name        : Tumbi Mohamed Hamza Sueb
+UIN         : 241A015
+Roll No     : 15
+Div         : A
+Department  : Artificial Intelligence & Data Science
+*/
 #include <stdio.h>
 
 int main()
