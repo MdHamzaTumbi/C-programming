@@ -1,4 +1,14 @@
-/*WAP to find if entered number is even or odd.*/
+
+/*
+Aim: WAP to find if entered number is even or odd.
+/*
+WAP to find the sum of all the odd numbers between numbers entered by the user.
+Name        : Tumbi Mohamed Hamza Sueb
+UIN         : 241A015
+Roll No     : 15
+Div         : A
+Department  : Artificial Intelligence & Data Science
+*/
 
 #include <stdio.h>
 
